@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Galgo:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Galgo_jar</output-path>
+    <root id="archive" name="Galgo.jar">
+      <element id="module-output" name="Galgo" />
+      <element id="directory" name="META-INF">
+        <element id="dir-copy" path="$PROJECT_DIR$/META-INF" />
+      </element>
+    </root>
+  </artifact>
+</component>
